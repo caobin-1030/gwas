@@ -1,0 +1,115 @@
+2019-11-04 09:33:03,857 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10104 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 09:33:03,898 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 09:33:05,510 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.07 seconds (JVM running for 2.683)
+2019-11-04 09:36:21,484 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10600 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 09:36:21,484 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 09:36:22,937 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.787 seconds (JVM running for 2.327)
+2019-11-04 09:46:24,464 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11776 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 09:46:24,469 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 09:46:26,264 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.285 seconds (JVM running for 3.0)
+2019-11-04 09:55:35,235 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 8692 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 09:55:35,251 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 09:55:36,688 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.767 seconds (JVM running for 2.311)
+2019-11-04 09:56:29,272 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 9632 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 09:56:29,272 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 09:56:30,881 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.006 seconds (JVM running for 3.5)
+2019-11-04 09:57:50,683 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6884 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 09:57:50,714 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 09:57:52,105 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.787 seconds (JVM running for 2.342)
+2019-11-04 12:09:31,597 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6280 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 12:09:31,600 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 12:09:33,245 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.035 seconds (JVM running for 2.603)
+2019-11-04 12:11:13,307 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 12:17:54,649 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11140 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 12:17:54,653 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 12:18:50,356 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 13396 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 12:18:50,360 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 12:18:51,959 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.968 seconds (JVM running for 2.522)
+2019-11-04 12:18:57,449 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 12:49:35,522 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 2032 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 12:49:35,525 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 12:49:37,039 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.868 seconds (JVM running for 2.407)
+2019-11-04 12:49:41,992 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 12:50:47,860 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15312 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 12:50:47,864 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 12:50:49,406 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.917 seconds (JVM running for 2.464)
+2019-11-04 12:51:57,519 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 13:16:55,518 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10364 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:16:55,556 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:16:57,088 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.944 seconds (JVM running for 2.516)
+2019-11-04 13:21:06,504 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 3500 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:21:06,508 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:21:08,058 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.897 seconds (JVM running for 2.437)
+2019-11-04 13:21:17,894 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 13:21:20,159 INFO (AsyncServiceImpl.java:32)- enter into generateReport
+2019-11-04 13:24:10,095 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 4448 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:24:10,133 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:24:11,619 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.864 seconds (JVM running for 2.402)
+2019-11-04 13:24:25,322 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 13:24:27,884 INFO (AsyncServiceImpl.java:32)- enter into generateReport
+2019-11-04 13:24:28,351 ERROR (AsyncConfig.java:40)- Error Occurs in async method:null
+2019-11-04 13:25:19,609 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15004 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:25:19,613 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:25:21,417 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.348 seconds (JVM running for 3.156)
+2019-11-04 13:26:07,363 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 13:26:09,903 INFO (AsyncServiceImpl.java:32)- enter into generateReport
+2019-11-04 13:27:43,222 ERROR (AsyncConfig.java:40)- Error Occurs in async method:null
+2019-11-04 13:30:05,120 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 12000 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:30:05,125 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:30:06,876 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.278 seconds (JVM running for 2.909)
+2019-11-04 13:30:39,037 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 13:30:41,540 INFO (AsyncServiceImpl.java:32)- enter into generateReport
+2019-11-04 13:35:16,220 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 12684 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:35:16,223 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:35:17,770 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.182 seconds (JVM running for 2.805)
+2019-11-04 13:35:30,824 INFO (SiteAnalysisController.java:40)- enter into siteannotation
+2019-11-04 13:35:33,165 INFO (AsyncServiceImpl.java:32)- enter into generateReport
+2019-11-04 13:57:19,250 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 7180 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:57:19,253 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:58:33,886 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 13188 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 13:58:33,922 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 13:58:35,408 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.869 seconds (JVM running for 2.406)
+2019-11-04 14:17:16,072 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 5492 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 14:17:16,076 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 14:17:17,592 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.403 seconds (JVM running for 3.081)
+2019-11-04 14:20:27,675 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 4772 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 14:20:27,710 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 14:20:29,249 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.935 seconds (JVM running for 2.482)
+2019-11-04 14:24:27,305 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 1940 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 14:24:27,309 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 14:24:29,011 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.208 seconds (JVM running for 2.877)
+2019-11-04 14:26:29,523 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10476 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 14:26:29,554 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 14:26:31,072 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.918 seconds (JVM running for 2.47)
+2019-11-04 14:27:12,674 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 13280 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 14:27:12,678 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 14:27:14,256 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.915 seconds (JVM running for 2.456)
+2019-11-04 17:28:03,147 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 13192 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 17:28:03,182 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 17:28:04,791 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.013 seconds (JVM running for 2.563)
+2019-11-04 17:50:30,266 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 12472 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 17:50:30,269 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 17:51:08,680 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 16212 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 17:51:08,682 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:05:28,512 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 2264 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:05:28,515 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:08:04,546 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 4400 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:08:04,550 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:08:37,544 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 14708 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:08:37,546 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:08:39,070 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.886 seconds (JVM running for 2.433)
+2019-11-04 18:08:55,090 INFO (SiteAnalysisController.java:59)- heh 
+2019-11-04 18:15:22,068 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11408 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:15:22,071 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:21:15,515 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 3088 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:21:15,519 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:22:22,076 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15516 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:22:22,079 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:49:54,536 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15220 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:49:54,571 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:55:00,330 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15492 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:55:00,380 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:57:45,351 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 1424 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:57:45,354 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-04 18:58:48,653 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 5848 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-04 18:58:48,687 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default

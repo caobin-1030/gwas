@@ -1,0 +1,6 @@
+2020-06-22 10:00:00,191 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 18836 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-22 10:00:00,197 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-22 10:02:22,013 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 18936 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-22 10:02:22,016 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-22 16:41:37,245 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 19188 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-22 16:41:37,248 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default

@@ -1,0 +1,17 @@
+document.writeln("");
+document.writeln("  <div class=\'header1\'>");
+document.writeln("    <div class=\'headerTop\'></div>");
+document.writeln("    <div class=\'headerBottom\'>");
+document.writeln("        <div class=\'headerContent\'>");
+document.writeln("            <span>SITE ANALYSIS</span>");
+document.writeln("            <div>");
+document.writeln("                <span onclick=\'toHome()\'>Home</span>");
+document.writeln("                <span onclick=\'toTools()\'>Tools</span>");
+document.writeln("                <span>Docs</span>");
+document.writeln("                <span>FAQ</span>");
+document.writeln("                <span>Contact</span>");
+document.writeln("                <span onclick=\'toDownload()\'>Download</span>");
+document.writeln("            </div>");
+document.writeln("        </div>");
+document.writeln("    </div>");
+document.writeln("</div>");

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/download.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <script type="text/javascript" src="js/header.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.bootcss.com/echarts/4.2.1-rc1/echarts.min.js"></script>
+</head>
+<body>
+<div class="alert alert-warning" id="mess" style="display: none;margin: 0 auto;width:500px;position: absolute;z-index: 999;left:37%">
+    <strong>Exporting</strong>
+</div>
+<div class="all">
+    <div class="allContant">
+        <div class="downloadContent">
+            <table class="table table-striped">
+                <thead>
+                <td></td>
+                <td>start time</td>
+                <td>end time</td>
+                <td>name</td>
+                <td>id</td>
+                </thead>
+                <tbody >
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function toHome(){
+        window.location.href='index.html'
+    }
+    function toTools(){
+        window.location.href='tools.html'
+    }
+    function toDownload(){
+        window.location.href='download.html'
+    }
+    var a = [
+        {stauts:0,createTime: "2020-04-20 16:09:05",uuid:'1243',updateTime: "2020-04-20 16:09:24",path: "/20200420160903935.txt"},
+        {stauts:1,createTime: "2020-04-20 16:09:05",uuid:'546',updateTime: "2020-04-20 16:09:24",path: "/20200420160903935.txt"},
+        {stauts:2,createTime: "2020-04-20 16:09:05",uuid:'1243',updateTime: "2020-04-20 16:09:24",path: "/20200420160903935.txt"},
+    ]
+    $(function() {
+        var loc = localStorage.getItem("uname");
+        if (loc == null || loc == undefined) {
+            var s = JSON.stringify(loc);
+            if (s.indexOf("@") == -1) {
+                window.location.href = "index.html";
+                return;
+            }
+        }
+        $.ajax({
+            url: "getRun",
+            type: "get",
+            headers: {
+                "uname": loc
+            },
+            success: function (data) {
+                // var dom = eval("(" + data + ")");
+                var date = data.datas;
+                a = date;
+                console.log(a)
+                for (var b in a) {
+                    $('tbody').append(`<tr id='${b}'>
+                    <td style="${a[b].stauts==0?'color:#FF6B00':a[b].stauts==1?'color:#3366cc':a[b].stauts==2?'color:#00be06':''}"">${a[b].stauts==0?'waiting':a[b].stauts==1?'running':a[b].stauts==2?'success':''}</td>
+                    <td>${a[b].startTime}</td>
+                      <td>${a[b].endTime}</td>
+                    <td>${a[b].title}</td>
+                    <td>${a[b].uuid}</td>
+                    <td><span id='${b+'downLoad'}' class="download">Download</span></td>
+                </tr>`)
+                    $(`#${b+'downLoad'}`).bind("click",{uuid1:a[b].uuid},download);
+                }
+            }
+        })
+
+        function download(event) {
+            $('#mess').show()
+            var xhr = new XMLHttpRequest();
+            xhr.open('get', `/download?id=${event.data.uuid1}`);    //也可以使用POST方式，根据接口
+            xhr.setRequestHeader("uname",`${localStorage.getItem('uname')}`);
+            xhr.responseType = "blob";   //返回类型blob
+            xhr.onload = (e)=> {
+                //定义请求完成的处理函数
+                if (e.target.status === 200) {
+                    var blob = e.target.response;
+                    var url1 = URL.createObjectURL(blob);
+                    var a = document.createElement('a');
+                    a.href = url1;
+                    if(0==0){
+                        a.download='result.zip';
+                    }else{
+                        a.download='result.txt';
+                    }
+
+                    a.click();
+                    //释放之前创建的URL对象
+                    window.URL.revokeObjectURL(url1);
+                    $('#mess').hide()
+
+                }
+            };
+            xhr.send(null);
+        }
+    })
+</script>
+</body>
+<script type="text/javascript" src="js/footer.js"></script>
+</html>

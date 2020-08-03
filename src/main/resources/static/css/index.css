@@ -1,0 +1,174 @@
+
+.allContant {
+  width: 100%;
+  margin-top: 48px;
+}
+a{
+  color: black;
+}
+p {
+  margin: 0;
+}
+.homecontent {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+.infocontent {
+  width: 1200px;
+  margin: 0 auto;
+}
+.infotop {
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 40px; 
+}
+.infocontent>div:nth-child(2) {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.infobottom {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+.infobottom>div {
+  width: 33%;
+  height: 190px;
+}
+.gwasinfo {
+  width: 100%;
+  height: 190px;
+  padding: 20px;
+  background: #FDFFEE;
+  box-shadow: 0px 4px 4px 0 #E8E8E8;
+}
+.msg {
+  width: 70%;
+  margin-right: 40px;
+}
+.msgbg{
+  width: 100%;
+  background: #2E6DB8;
+  height: 40px;
+}
+.msgbg>p{
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 600;
+}
+.msginfo {
+  width: 100%;
+  background: #FDFFEE;
+  box-shadow: 0px 4px 4px 0 #E8E8E8;
+  padding: 20px 30px;
+}
+.msginfo>p:nth-child(1) {
+  font-size: 16px;
+  font-weight: 600;
+}
+.msginfo>p:nth-child(2) {
+  font-size: 14px;
+  font-weight: 500;
+}
+.login {
+  width: 30%;
+  padding: 30px;
+  box-shadow: 4px 4px 14px 0 #E8E8E8;
+  height: 480px;
+}
+#register {
+  width: 30%;
+  display: none;
+}
+#bigDiv #bigDiv1 #bigDiv2{
+  padding:30px 40px;
+  width:100%;
+  background-repeat: no-repeat;
+  background-size: 292px 232px;
+  background-position: 80% 90%;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 14px 0 #E8E8E8;
+}
+input{
+  width: 100%;
+  height: 36px;
+  box-shadow: inset 1px 1px 10px 0 #EEEBF0;
+  padding-left: 10px;
+  border: 1px solid #EEEBF0;
+}
+.text{
+  padding: 5px 0;
+}
+.text>p:nth-child(1) {
+  color: #757575;
+  font-family: PingFang SC;
+  font-weight: 400;
+  font-size: 18px;
+}
+p{
+  margin: 5px 0;
+}
+#btn-login{
+  margin: 20px 0;
+  border-radius:3px;
+  border: hidden;
+  height: 40px;
+  font-size: 18px;
+  background-color:#2E6DB8;
+  color: white;
+}
+#reg-btn ,#For-btn{
+  background-color:#2E6DB8;
+  color: white;
+}
+#form-login>p:nth-child(1) {
+  color: #000000;
+  font-family: PingFang SC;
+  font-weight: 600;
+  font-size: 24px;
+}
+.zhanghao {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#forget {
+  display: none;
+  width: 30%;
+}
+#change {
+  display: none;
+  width: 30%;
+}
+.yanzheng {
+  display: flex;
+  flex-direction: row;
+  vertical-align: bottom;
+  width: 100%;
+}
+.yanzheng>div:nth-child(1) {
+  width: 76%;
+}
+a{
+  text-decoration:none;
+}
+#toLogin {
+  text-align: center;
+}
+#login1 {
+  display: none;
+  width: 30%;
+}

@@ -1,0 +1,5 @@
+from = service@shengxin.ren
+host = smtp.mxhichina.com
+user = service@shengxin.ren
+pass = sxr.1234
+port = 25

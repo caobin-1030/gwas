@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/index.css">
+<script src="js/header.js"></script><link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/footer.css">
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.bootcss.com/echarts/4.2.1-rc1/echarts.min.js"></script>
+</head>
+<body>
+<div class="all">
+    <div class="allContant">
+        <div class="homecontent">
+            <div class="msg">
+              <img src="./images/bann.png" style="width: 100%;" alt="">
+              <div class="msgbg"></div>
+              <div class="msginfo">
+                <p style="font-size: 16px;font-weight: 600;">Welcome to the GWAS Web Server</p>
+                <p style="font-size: 14px;"><span style="font-weight: 600;">GWAS Web Server</span> is among the world's three most popular non‐alcoholic beverage with important economic, health and cultural values. It comprises plentiful characteristic metabolites such astea polyphenol, caffeine, theanine, vitamins, and minerals that are beneficial to human health. TPIA focus on integrating multi‐omics data of tea plant and establishing their inner network to assist the tea community for better genetic resources exploration. </p>
+                <p style="font-size: 16px;font-weight: 600;">In GWAS Web Server, users can:</p>
+                <p>✔ Run genotype imputation online for 13 species by two imputation tools;<br/>
+                  ✔ Download the reference panels for user's local pipeline;<br/>
+                  ✔ Browse, search or download single nucleotide polymorphism (SNPs) of 13 species;<br/>
+                  ✔ Perform imputation locally with a thorough guideline, which contains the instructions of panels and tools.</p>
+              </div>
+            </div>
+            <div class="login" id="Login">
+                <div id="bigDiv1">
+                    <form id="form-login">
+                        <p>Login</p>
+                        <div class="text">
+                            <p>username：</p>
+                            <input type="text" name="email" id="email" placeholder="email">
+                        </div>
+                        <div class="text">
+                            <p>password：</p>
+                            <input type="password" name="password" placeholder="password">
+                        </div>
+                        <div>
+                            <input id="btn-login" type="button" value="Login">
+                        </div>
+                        <div style="text-align: center;">
+                            <p><span>No account yet？</span><span id="toRegister" style="color: red;cursor: pointer;">Register</span>
+                            </p>
+                            <span style="color: #2d77d3;cursor: pointer;line-height: 30px;" id="toForget">reset password</span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="login" id="Register">
+                <div id="bigDiv">
+                    <form id="reg-form">
+                        <h3>Register</h3>
+                        <div class="text">
+                            <p>username：</p>
+                            <input type="text" name="email" placeholder="email">
+                        </div>
+                        <div class="text">
+                            <p>password：</p>
+                            <input type="password" name="password" placeholder="password">
+                        </div>
+                        <div class="text">
+                            <p>confirm：</p>
+                            <input type="password" placeholder="password">
+                        </div>
+                        <span>
+                  <input id="reg-btn" type="button" value="Register">
+                </span>
+                        <p class="zhanghao">
+                            <span>Existing account？</span><span id="toLogin" style="color: #2d77d3;cursor: pointer;">Login</span>
+                        <p>
+                    </form>
+                </div>
+            </div>
+            <div class="login" id="Forget">
+                <div id="bigDiv2">
+                    <form id="For-form">
+                        <h3>Password retrieval</h3>
+                        <div class="text">
+                            <p>email：</p>
+                            <input type="text" name="email" id="email1" placeholder="email">
+                        </div>
+                        <div class="text">
+                            <p>new password：</p>
+                            <input type="text" name="email" id="pwd" placeholder="new password">
+                        </div>
+                        <p>Code：</p>
+                        <div class="yanzheng">
+                            <div><input type="password" id="yzm" placeholder=""></div>
+                            <div><input id="For-btn1" onclick="sendEmail()" type="button" value="Send verification code"></div>
+                        </div>
+                        <p style='margin-top:20px'>
+                            <input id="For-btn" type="button" onclick="resetPwd()" value="Submit">
+                        </p>
+                        <p class="zhanghao">
+                            <span onclick="toLogin()" style="color: red;cursor: pointer;">Login</span>
+                        <p>
+                    </form>
+                </div>
+            </div>
+            <div class="login" id="Change">
+                <div id="bigDiv">
+                    <form id="cha-form">
+                        <h3>Change Password</h3>
+                        <div class="text">
+                            <p>password：</p>
+                            <input type="password" name="password" placeholder="password">
+                        </div>
+                        <div class="text">
+                            <p>confirm：</p>
+                            <input type="password" placeholder="password">
+                        </div>
+                        <p class="zhanghao">
+                            <span onclick="toLogin()" style="color: red;cursor: pointer;">Login</span>
+                        <p>
+                    </form>
+                </div>
+            </div>
+            <div class="login" id="Login1">
+                <div id="bigDiv1">
+                    <form id="form-login">
+                        <p>welcome</p>
+                        <div class="text">
+                            <p>user：</p>
+                            <span id="username"></span>
+                        </div>
+                        <div>
+                            <p style='text-align: right;'><button onclick="signout()">sign out</button>
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="infocontent">
+          <div class="infotop">
+            <div style="width: 40px;background: #2d77d3;"></div>
+            <div style="border-bottom: 2px dashed #000;width: 1160px;">
+              <p style="font-size: 18px;font-weight: 600;margin:0;margin-left: 40px;line-height: 40px;height: 40px;">GWAS Web Server Summary</p>
+            </div>
+          </div>
+          <div class="infobottom">
+            <div style="margin-right: 60px;">
+              <div class="msgbg">
+                <p>Welcome to the GWAS Web Server</p>
+              </div>
+              <div class="gwasinfo">
+                <p>2020-06-08: GWAS Webser Release 1.0 online!</p>
+              </div>
+            </div>
+            <div style="margin-right: 60px;">
+              <div class="msgbg">
+                <p>About Us</p>
+              </div>
+              <div class="gwasinfo">
+                
+              </div>
+            </div>
+              
+            <div>
+              <div class="msgbg">
+                <p>Visitor Tracking</p>
+              </div>
+              <div class="gwasinfo" style="width: 100%">
+                  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5n56cck74xe&amp;m=0&amp;h=160&amp;c=ff0000&amp;r=0" async="async"></script>
+            </div>
+          </div>
+        </div>
+    </div>
+</div>
+<script src="js/footer.js"></script>
+<script type="text/javascript">
+    function toHome() {
+        window.location.href = 'index.html'
+    }
+
+    function toTools() {
+        window.location.href = 'tools.html'
+    }
+
+    function toDownload() {
+        window.location.href = 'download.html'
+    }
+
+    function toLogin() {
+        $('#Login').show()
+        $('#Register').hide()
+        $('#Forget').hide()
+        $('#Change').hide()
+    }
+
+    function toChange() {
+        $('#Login').hide()
+        $('#Register').hide()
+        $('#Forget').hide()
+        $('#Change').show()
+    }
+
+    function signout(){
+        localStorage.clear();
+        $('#Login').show()
+        $('#Register').hide()
+        $('#Forget').hide()
+        $('#Login1').hide()
+        $('#Change').hide()
+    }
+    $(function () {
+        $('#toRegister').click(function () {
+            $('#Login').hide()
+            $('#Login1').hide()
+            $('#Register').show()
+            $('#Forget').hide()
+            $('#Change').hide()
+        })
+        $('#toLogin').click(function () {
+            $('#Login').show()
+            $('#Register').hide()
+            $('#Forget').hide()
+            $('#Login1').hide()
+            $('#Change').hide()
+        })
+        $('#toForget').click(function () {
+            $('#Forget').show()
+            $('#Login').hide()
+            $('#Register').hide()
+            $('#Login1').hide()
+            $('#Change').hide()
+        })
+        if(localStorage.getItem('Login1')==undefined){
+            $('#Forget').hide()
+            $('#Login').show()
+            $('#Register').hide()
+            $('#Login1').hide()
+            $('#Change').hide()
+        }else{
+            $('#username').text(localStorage.getItem('uname'))
+            $('#Forget').hide()
+            $('#Login').hide()
+            $('#Register').hide()
+            $('#Login1').show()
+            $('#Change').hide()
+        }
+
+        $("#btn-login").click(function () {
+            // 将请求提交到哪里
+            var url = "/login";
+            // 请求参数
+            var data = $("#form-login").serialize();
+            console.log("登录参数：" + data);
+            // 发出ajax请求，并处理结果
+            $.ajax({
+                "url": url,
+                "data": data,
+                "type": "POST",
+                "dataType": "json",
+                "success": function (json) {
+                    // window.location.href="/index.html";
+                    if (json == 1) {
+                        localStorage.setItem("uname", $("#email").val());
+                        localStorage.setItem("Login1", true);
+                        $('#Forget').hide()
+                        $('#Login').hide()
+                        $('#Register').hide()
+                        $('#Login1').show()
+                        $('#Change').hide()
+                        $('#username').text($("#email").val())
+                        window.location.href = "tools.html";
+                    }else {
+                        alert("username or password error")
+                    }
+                }
+            });
+        });
+        $("#reg-btn").click(function () {
+            // 请求提交到目标位置：user/reg.do
+            var url = "/reg";
+            // 请求参数
+            var data = $("#reg-form").serialize();
+            console.log("注册参数：" + data);
+            // 发出ajax请求，并处理结果
+            $.ajax({
+                "url": url,
+                "data": data,
+                "type": "POST",
+                "dataType": "json",
+                "success": function (json) {
+                    if (json.resp_code == 0) {
+                        alert("success！");
+                        window.location.href = "tools.html";
+                    } else {
+                        alert("this email is use");
+                    }
+                }
+            });
+        });
+    })
+
+    // id="For-btn1" onclick="sendEmail()"
+    function sendEmail() {
+        var val = $("#email1").val();
+        $.ajax({
+                url: "/sendEmail?email=" + val,
+                type: "get",
+                success: function (json) {
+                    if (json.resp_code == 0) {
+                        alert("send success");
+                    } else {
+                        alert("Please confirm whether the mail is registered")
+                    }
+                }
+            }
+        )
+    }
+
+    function resetPwd() {
+        var formData = new FormData();
+        formData.append("email", $("#email1").val());
+        formData.append("code", $("#yzm").val());
+        formData.append("pwd", $("#pwd").val());
+        $.ajax({
+            url: "/snpExtent",
+            type: "POST",
+            processData: false,
+            contentType: false,
+            data: formData,
+            success: function (json) {
+                if (json.resp_code == 0) {
+                    alert("修改成功");
+                } else {
+                    alert("请确认验证码")
+                }
+            }
+        })
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+2020-06-18 16:58:55,992 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 4044 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 16:58:55,998 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 16:59:49,418 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 19996 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 16:59:49,421 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:00:41,131 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 19048 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:00:41,135 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:02:09,914 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 14736 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:02:09,918 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:02:30,958 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 21.498 seconds (JVM running for 22.674)
+2020-06-18 17:03:54,249 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11016 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:03:54,252 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:04:02,016 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 8.241 seconds (JVM running for 9.211)
+2020-06-18 17:12:56,018 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6416 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:12:56,021 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:13:17,097 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 21.552 seconds (JVM running for 22.49)
+2020-06-18 17:13:57,296 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11108 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:13:57,300 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:14:04,951 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 8.097 seconds (JVM running for 9.371)
+2020-06-18 17:15:02,818 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 21692 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:15:02,821 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:15:11,507 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 9.154 seconds (JVM running for 10.127)
+2020-06-18 17:16:04,684 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10556 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:16:04,688 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:16:12,288 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 8.066 seconds (JVM running for 9.092)
+2020-06-18 17:16:56,773 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10292 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:16:56,776 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:17:04,421 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 8.115 seconds (JVM running for 9.143)
+2020-06-18 17:32:29,277 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 16084 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 17:32:29,281 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 17:32:40,119 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 11.392 seconds (JVM running for 12.523)
+2020-06-18 18:02:42,978 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10716 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 18:02:42,981 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 18:02:50,759 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 8.251 seconds (JVM running for 9.257)
+2020-06-18 18:45:40,421 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 4092 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 18:45:40,425 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 18:45:48,210 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 8.245 seconds (JVM running for 9.232)
+2020-06-18 18:55:17,553 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 16760 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 18:55:17,556 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 18:55:24,855 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 7.71 seconds (JVM running for 8.53)
+2020-06-18 18:57:29,933 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11108 (D:\zp\weixin\gene\target\classes started by aaa in D:\zp\weixin\gene)
+2020-06-18 18:57:29,937 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-06-18 18:57:37,679 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 8.197 seconds (JVM running for 9.187)

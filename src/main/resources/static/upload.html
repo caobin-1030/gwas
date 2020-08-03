@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="file" name="fileName1" id="fileName1"/>
+<input type="button" onclick="sendToUser()" id="sendToUser" value="提交"/>
+
+<div id="divCustomers"></div>
+<script language="JavaScript" src="jquery-3.4.1.js"></script>
+<script>
+    function sendToUser() { //在这里进行ajax 文件上传 用户的信息
+        boo1 = true;
+        var formData = new FormData();//这里需要实例化一个FormData来进行文件上传
+        formData.append("uploadFile", $("#fileName1").file);
+        formData.append("pvalue", "0.01");
+        formData.append("snpId", "adipose_tissue");
+        console.log($("#fileName1").file)
+        console.log(formData)
+        $.ajax({
+            url: "/siteannotation",
+            type: "POST",
+            processData: false,
+            data: formData,  //对form表单进行序列化，从而将form表单中的所有参数传递到服务端。
+            success: function (data) {
+                console.log("ok")
+                $('#serverResponse').html(data);
+            },
+            error: function (data) {
+                $('#serverResponse').html(data.status + " : " + data.statusText + " : " + data.responseText);
+            }
+        });
+
+    }
+</script>
+</body>
+</html>

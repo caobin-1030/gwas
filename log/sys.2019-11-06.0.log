@@ -1,0 +1,43 @@
+2019-11-06 09:49:59,372 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 18316 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 09:49:59,417 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 09:50:03,825 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 4.917 seconds (JVM running for 5.552)
+2019-11-06 09:50:22,599 INFO (SiteAnalysisController.java:55)- enter into siteannotation
+2019-11-06 09:50:22,600 INFO (SiteAnnotationServiceImpl.java:229)- enter getSnpMapAnalysisOut id :uploadFile
+2019-11-06 09:50:24,533 INFO (AsyncServiceImpl.java:52)- generateSnpResult线程名称：ThreadPoolTaskExecutor-1
+2019-11-06 09:50:30,948 ERROR (AsyncConfig.java:40)- Error Occurs in async method:null
+2019-11-06 09:54:01,708 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10256 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 09:54:01,712 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 09:56:24,883 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 8712 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 09:56:24,887 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 09:57:25,777 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 16696 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 09:57:25,780 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 09:57:39,685 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 1364 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 09:57:39,688 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 09:59:14,860 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 12884 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 09:59:14,907 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 09:59:18,600 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 4.105 seconds (JVM running for 4.693)
+2019-11-06 09:59:28,747 INFO (SiteAnalysisController.java:55)- enter into siteannotation
+2019-11-06 09:59:28,747 INFO (SiteAnnotationServiceImpl.java:229)- enter getSnpMapAnalysisOut id :uploadFile
+2019-11-06 09:59:30,900 INFO (AsyncServiceImpl.java:53)- generateSnpResult线程名称：ThreadPoolTaskExecutor-1
+2019-11-06 09:59:36,212 ERROR (AsyncConfig.java:40)- Error Occurs in async method:null
+2019-11-06 10:03:15,561 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 18104 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 10:03:15,565 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 10:03:19,321 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 4.157 seconds (JVM running for 4.751)
+2019-11-06 10:03:29,056 INFO (SiteAnalysisController.java:55)- enter into siteannotation
+2019-11-06 10:03:29,056 INFO (SiteAnnotationServiceImpl.java:229)- enter getSnpMapAnalysisOut id :uploadFile
+2019-11-06 10:03:32,339 INFO (AsyncServiceImpl.java:54)- generateSnpResult线程名称：ThreadPoolTaskExecutor-1
+2019-11-06 10:04:32,204 INFO (AsyncServiceImpl.java:84)- end
+2019-11-06 10:07:14,154 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15992 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 10:07:14,160 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 10:07:17,389 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 3.653 seconds (JVM running for 4.464)
+2019-11-06 10:07:29,105 INFO (SiteAnalysisController.java:55)- enter into siteannotation
+2019-11-06 10:07:29,105 INFO (SiteAnnotationServiceImpl.java:229)- enter getSnpMapAnalysisOut id :uploadFile
+2019-11-06 10:07:31,516 INFO (AsyncServiceImpl.java:53)- generateSnpResult线程名称：ThreadPoolTaskExecutor-1
+2019-11-06 10:08:34,507 INFO (AsyncServiceImpl.java:82)- end
+2019-11-06 10:13:57,328 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15464 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-11-06 10:13:57,331 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-06 10:14:01,011 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 4.075 seconds (JVM running for 4.693)
+2019-11-06 10:14:10,663 INFO (SiteAnalysisController.java:55)- enter into siteannotation
+2019-11-06 10:14:10,663 INFO (SiteAnnotationServiceImpl.java:223)- enter getSnpMapAnalysisOut id :uploadFile
+2019-11-06 10:14:12,861 INFO (AsyncServiceImpl.java:53)- generateSnpResult线程名称：ThreadPoolTaskExecutor-1
+2019-11-06 10:15:14,265 INFO (AsyncServiceImpl.java:81)- end

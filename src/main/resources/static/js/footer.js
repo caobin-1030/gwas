@@ -1,0 +1,16 @@
+document.writeln("");
+document.writeln("  <div class=\'footer\'>");
+document.writeln("    <div class=\'footerTop\'></div>");
+document.writeln("    <div class=\'footerBottom\'>");
+document.writeln("        <div class=\'footer1\'>");
+document.writeln("            <p>SITE ANALYSIS</p>");
+document.writeln("            <div class=\'lianxi\'>");
+document.writeln("                <div><img src=\'./images/u124.svg\' alt=\'\'><span>Juhua science and Technology Industrial Park, No. 6, Longzhou Road, Yuhang District, Hangzhou</span></div>");
+document.writeln("                <div><img src=\'./images/u121.svg\' alt=\'\'><span>01171-808082088</span></div>");
+document.writeln("                <div><img src=\'./images/u125.svg\' alt=\'\'><span>feedback@snp.com</span></div>");
+document.writeln("            </div>");
+document.writeln("            <p>2018 © State Key Laboratory of Tea Plant Biology and Utilization, Anhui Agricultural University, Hefei, 230036, Anhui, China.</p>");
+document.writeln("        </div>");
+document.writeln("    </div>");
+document.writeln("  </div>");
+document.writeln("");

@@ -1,0 +1,60 @@
+a{
+  color: black;
+}
+p {
+  margin: 0;
+}
+.footer {
+  width: 100%;
+  background: #F8FBFF;
+  padding-top: 70px;
+}
+.footerTop {
+  width: 100%;
+  height: 10px;
+  background: #77aff4;
+}
+.footerBottom {
+  width: 100%;
+  height: 200px;
+  background: #2d77d3;
+  text-align: center;
+  overflow: hidden;
+}
+.footer1>p:nth-child(1) {
+  margin-top: 50px;
+  font-family: '思源黑体 CN';
+  font-weight: 900;
+  font-style: normal;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.lianxi{
+  width: 650px;
+  margin: 0 auto;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.lianxi>div>img {
+  height: 24px;
+  margin-right: 10px;
+}
+.lianxi>div>span {
+  font-family: '思源黑体 CN';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  letter-spacing: normal;
+  color: #FFFFFF;
+}
+.footer1>p:nth-child(3) {
+  margin-top: 30px;
+  font-family: '思源黑体 CN';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  letter-spacing: normal;
+  color: #FFFFFF;
+}

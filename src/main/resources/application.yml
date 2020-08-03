@@ -1,0 +1,60 @@
+
+
+spring:
+  redis:
+    host: 192.168.31.248
+#    host: calculate.mysci.online
+    port: 6379
+    password: zhaoyuxing
+  servlet:
+    multipart:
+      max-request-size: 109951162777
+      max-file-size: 109951162777
+#      enabled: true
+#      resolve-lazily: true
+
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.31.248:3306/pubmedplus?prepStmtCacheSize=517&cachePrepStmts=true&autoReconnect=true&characterEncoding=utf-8&allowMultiQueries=true
+#    url: jdbc:mysql://calculate.mysci.online:33060/pubmedplus?prepStmtCacheSize=517&cachePrepStmts=true&autoReconnect=true&characterEncoding=utf-8&allowMultiQueries=true
+    username: root
+
+
+
+    password: biocc123!@#
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+
+
+
+
+#log
+logging:
+  config: classpath:logback-boot.xml
+
+
+#com.mugu.filePath: D:\\my\\
+#com.mugu.snpMapfile: scz2.fullsnp
+#com.mugu.m6aMap: m6ASNPmap.txt
+#com.mugu.outFileName: result.txt
+#com.mugu.gtexPath: D:\\download\\test\\GTEx_Analysis_v7_eQTL\\
+#com.mugu.upload: D:\\my\\upload\\
+
+com.mugu.filePath: /home/data/gene/tmp/
+com.mugu.snpMapfile: /home/data/gene/scz2.fullsnp
+com.mugu.m6aMap: /home/data/gene/m6ASNPmap.txt
+com.mugu.outFileName: result.txt
+com.mugu.gtexPath: /home/data/gene/GTEx_Analysis_v7_eQTL/
+com.mugu.upload: /home/data/gene/upload/
+com.mugu.result: /home/data/gene/result/
+com.mugu.rPath: /home/soft/
+com.mugu.userdata: /home/data/userdata/
+
+server:
+  port: 8090
+  tomcat:
+    max-http-post-size: -1

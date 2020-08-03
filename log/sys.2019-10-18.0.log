@@ -1,0 +1,212 @@
+2019-10-18 13:15:30,531 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:15:30,531 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:15:30,925 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.421 seconds (JVM running for 687.888)
+2019-10-18 13:15:32,182 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 19660 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:15:32,185 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:15:56,308 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6732 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:15:56,310 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:15:56,575 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:15:56,575 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:15:56,870 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.322 seconds (JVM running for 713.834)
+2019-10-18 13:16:41,546 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:16:41,547 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-18 13:16:41,547 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:16:41,717 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 18580 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:16:41,720 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-18 13:16:41,721 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:16:41,942 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.427 seconds (JVM running for 758.905)
+2019-10-18 13:18:51,706 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:18:51,707 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:18:51,830 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11016 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:18:51,831 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:18:52,143 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.466 seconds (JVM running for 889.105)
+2019-10-18 13:20:40,886 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:20:40,886 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:20:41,253 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.389 seconds (JVM running for 998.216)
+2019-10-18 13:20:42,304 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 15376 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:20:42,305 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:21:07,858 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:21:07,858 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:21:08,147 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 416 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:21:08,150 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:21:08,233 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.401 seconds (JVM running for 1025.197)
+2019-10-18 13:21:33,836 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:21:33,836 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:21:34,009 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 5000 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:21:34,012 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:21:34,198 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.392 seconds (JVM running for 1051.161)
+2019-10-18 13:23:57,867 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 5376 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:23:57,871 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:23:58,036 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 22556 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:23:58,036 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:23:58,321 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 0.31 seconds (JVM running for 1195.285)
+2019-10-18 13:35:40,772 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6804 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:35:40,803 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:35:42,453 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.117 seconds (JVM running for 2.886)
+2019-10-18 13:36:43,673 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@71d745f0
+2019-10-18 13:36:43,673 INFO (SiteAnalysisController.java:36)- scz2
+2019-10-18 13:36:43,680 ERROR (SiteAnnotationServiceImpl.java:47)- 123
+2019-10-18 13:51:02,961 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 3928 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:51:02,993 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:52:42,996 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 7084 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:52:43,000 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:52:44,418 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.756 seconds (JVM running for 2.285)
+2019-10-18 13:53:00,651 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@11265404
+2019-10-18 13:53:00,878 INFO (SiteAnalysisController.java:36)- scz2
+2019-10-18 13:53:00,878 INFO (SiteAnnotationServiceImpl.java:50)- mugu:filePath
+2019-10-18 13:53:00,880 ERROR (SiteAnnotationServiceImpl.java:52)- 123
+2019-10-18 13:53:37,520 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@512f3b3e
+2019-10-18 13:53:37,520 INFO (SiteAnalysisController.java:36)- scz2
+2019-10-18 13:53:37,521 INFO (SiteAnnotationServiceImpl.java:50)- mugu:filePath
+2019-10-18 13:53:37,522 ERROR (SiteAnnotationServiceImpl.java:52)- 123
+2019-10-18 13:54:43,528 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6204 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:54:43,531 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:54:44,924 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.724 seconds (JVM running for 2.244)
+2019-10-18 13:54:49,054 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@3fd7dd6
+2019-10-18 13:54:49,055 INFO (SiteAnalysisController.java:36)- scz2
+2019-10-18 13:54:49,055 INFO (SiteAnnotationServiceImpl.java:50)- D:\\zp\\file
+2019-10-18 13:54:49,059 ERROR (SiteAnnotationServiceImpl.java:52)- 123
+2019-10-18 13:55:18,476 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 7340 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:55:18,479 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:55:19,915 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.843 seconds (JVM running for 2.372)
+2019-10-18 13:55:56,832 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 10224 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 13:55:56,835 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 13:55:58,242 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.745 seconds (JVM running for 2.265)
+2019-10-18 13:56:13,552 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@533b6ef4
+2019-10-18 13:56:13,553 INFO (SiteAnalysisController.java:36)- scz2
+2019-10-18 13:56:13,553 INFO (SiteAnnotationServiceImpl.java:50)- D:\\zp\\file\\
+2019-10-18 13:56:13,557 ERROR (SiteAnnotationServiceImpl.java:52)- 123
+2019-10-18 14:03:04,272 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11752 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 14:03:04,287 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 14:03:05,709 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.772 seconds (JVM running for 2.326)
+2019-10-18 14:03:09,326 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@7a126375
+2019-10-18 14:03:09,327 INFO (SiteAnalysisController.java:36)- scz2
+2019-10-18 14:03:09,327 INFO (SiteAnnotationServiceImpl.java:53)- chr9,9134,12134,1,promoter
+2019-10-18 14:03:09,327 INFO (SiteAnnotationServiceImpl.java:53)- chr9,12134,12190,1,exon
+2019-10-18 14:03:09,327 INFO (SiteAnnotationServiceImpl.java:53)- chr9,12190,12291,1,intron
+2019-10-18 14:03:09,327 INFO (SiteAnnotationServiceImpl.java:53)- chr9,12291,12340,1,exon
+2019-10-18 14:03:09,328 INFO (SiteAnnotationServiceImpl.java:53)- chr9,12340,12726,1,intron
+2019-10-18 14:03:09,328 INFO (SiteAnnotationServiceImpl.java:53)- chr9,12726,12834,1,exon
+2019-10-18 14:03:09,328 INFO (SiteAnnotationServiceImpl.java:53)- chr9,12834,13088,1,intron
+2019-10-18 14:03:09,328 INFO (SiteAnnotationServiceImpl.java:53)- chr9,13088,13157,1,exon
+2019-10-18 14:03:09,329 INFO (SiteAnnotationServiceImpl.java:53)- chr9,13157,13338,1,intron
+2019-10-18 14:03:09,329 INFO (SiteAnnotationServiceImpl.java:53)- chr9,13338,13487,1,exon
+2019-10-18 14:03:09,329 INFO (SiteAnnotationServiceImpl.java:53)- chr9,13487,13566,1,intron
+2019-10-18 14:03:09,329 INFO (SiteAnnotationServiceImpl.java:53)- chr9,13566,13783,1,exon
+2019-10-18 14:03:09,329 INFO (SiteAnnotationServiceImpl.java:53)- chr9,14475,14806,0,three_prime_UTR
+2019-10-18 14:03:09,329 INFO (SiteAnnotationServiceImpl.java:53)- chr9,14806,14940,0,exon
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,14940,15081,0,intron
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,15081,15149,0,exon
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,15149,15909,0,intron
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,15909,16061,0,exon
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,16061,16718,0,intron
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,16718,16876,0,exon
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,16876,16965,0,intron
+2019-10-18 14:03:09,330 INFO (SiteAnnotationServiceImpl.java:53)- chr9,16965,17166,0,exon
+2019-10-18 14:03:09,331 INFO (SiteAnnotationServiceImpl.java:53)- chr9,17166,17344,0,intron
+2019-10-18 14:03:09,331 INFO (SiteAnnotationServiceImpl.java:53)- chr9,17344,17479,0,exon
+2019-10-18 14:03:09,331 INFO (SiteAnnotationServiceImpl.java:53)- chr9,17479,17719,0,intron
+2019-10-18 14:03:09,331 INFO (SiteAnnotationServiceImpl.java:53)- chr9,17719,17855,0,exon
+2019-10-18 14:03:09,331 INFO (SiteAnnotationServiceImpl.java:53)- chr9,17855,18028,0,intron
+2019-10-18 14:03:09,331 INFO (SiteAnnotationServiceImpl.java:53)- chr9,18028,18174,0,exon
+2019-10-18 14:03:09,331 INFO (SiteAnnotationServiceImpl.java:53)- chr9,18174,18381,0,intron
+2019-10-18 14:03:09,332 INFO (SiteAnnotationServiceImpl.java:53)- chr9,18381,18492,0,exon
+2019-10-18 14:03:09,332 INFO (SiteAnnotationServiceImpl.java:53)- chr9,18492,24657,0,intron
+2019-10-18 14:03:09,334 ERROR (SiteAnnotationServiceImpl.java:57)- 123
+2019-10-18 14:14:13,068 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 13136 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 14:14:13,099 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 14:14:14,585 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.848 seconds (JVM running for 2.392)
+2019-10-18 14:14:31,400 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@2c55ae88
+2019-10-18 14:14:31,401 INFO (SiteAnalysisController.java:36)- scz2.fullsnp.result
+2019-10-18 14:14:31,401 INFO (SiteAnnotationServiceImpl.java:54)- hg19chrc	snpid	a1	a2	bp	info	or	se	p	ngt
+2019-10-18 14:14:31,401 INFO (SiteAnnotationServiceImpl.java:54)- chr1	rs4951859	C	G	729679	0.631	0.97853	0.0173	0.2083	0
+2019-10-18 14:14:31,402 INFO (SiteAnnotationServiceImpl.java:54)- chr1	rs142557973	T	C	731718	0.665	1.01949	0.0198	0.3298	0
+2019-10-18 14:14:31,454 ERROR (SiteAnnotationServiceImpl.java:58)- 0.1
+2019-10-18 14:15:18,876 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@78ec0eff
+2019-10-18 14:15:18,876 INFO (SiteAnalysisController.java:36)- scz2.fullsnp.result
+2019-10-18 14:15:18,876 INFO (SiteAnnotationServiceImpl.java:54)- hg19chrc	snpid	a1	a2	bp	info	or	se	p	ngt
+2019-10-18 14:15:18,877 INFO (SiteAnnotationServiceImpl.java:54)- chr1	rs4951859	C	G	729679	0.631	0.97853	0.0173	0.2083	0
+2019-10-18 14:15:18,877 INFO (SiteAnnotationServiceImpl.java:54)- chr1	rs142557973	T	C	731718	0.665	1.01949	0.0198	0.3298	0
+2019-10-18 14:15:19,016 ERROR (SiteAnnotationServiceImpl.java:58)- null
+2019-10-18 14:21:13,553 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 276 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 14:21:13,568 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 14:21:14,972 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.743 seconds (JVM running for 2.277)
+2019-10-18 14:21:26,997 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@1d0688
+2019-10-18 14:21:26,997 INFO (SiteAnalysisController.java:36)- scz2.fullsnp.result
+2019-10-18 14:21:26,998 INFO (SiteAnnotationServiceImpl.java:61)- []
+2019-10-18 14:21:27,024 ERROR (SiteAnnotationServiceImpl.java:63)- null
+2019-10-18 14:21:33,104 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@5ff6ac26
+2019-10-18 14:21:33,105 INFO (SiteAnalysisController.java:36)- scz2.fullsnp.result
+2019-10-18 14:22:11,819 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 3232 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 14:22:11,819 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 14:22:13,194 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.71 seconds (JVM running for 2.233)
+2019-10-18 14:22:16,857 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@b6b9883
+2019-10-18 14:22:16,858 INFO (SiteAnalysisController.java:36)- scz2.fullsnp.result
+2019-10-18 14:24:23,350 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6036 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 14:24:23,350 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 14:24:24,756 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.723 seconds (JVM running for 2.251)
+2019-10-18 14:24:28,328 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@79b0ac94
+2019-10-18 14:24:28,328 INFO (SiteAnalysisController.java:36)- scz2.fullsnp.result
+2019-10-18 14:24:28,329 INFO (SiteAnnotationServiceImpl.java:64)- [rs4951859, rs142557973]
+2019-10-18 14:24:28,777 ERROR (SiteAnnotationServiceImpl.java:66)- 0.5
+2019-10-18 14:25:06,039 INFO (SiteAnalysisController.java:33)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@12a44629
+2019-10-18 14:25:06,040 INFO (SiteAnalysisController.java:36)- scz2.fullsnp.result
+2019-10-18 14:25:06,040 INFO (SiteAnnotationServiceImpl.java:64)- [rs4951859]
+2019-10-18 14:25:06,174 ERROR (SiteAnnotationServiceImpl.java:66)- 0.3
+2019-10-18 14:57:28,631 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 1044 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 14:57:28,647 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 14:57:30,037 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.72 seconds (JVM running for 2.235)
+2019-10-18 14:57:37,021 INFO (SiteAnalysisController.java:35)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@38bb2358
+2019-10-18 14:57:37,021 INFO (SiteAnalysisController.java:38)- scz2.fullsnp.result
+2019-10-18 14:58:58,162 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 4436 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 14:58:58,193 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 14:58:59,584 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.762 seconds (JVM running for 2.286)
+2019-10-18 14:59:08,796 INFO (SiteAnalysisController.java:35)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@3ad8890e
+2019-10-18 14:59:08,796 INFO (SiteAnalysisController.java:38)- scz2.fullsnp.result
+2019-10-18 15:02:20,092 ERROR (SiteAnnotationServiceImpl.java:74)- 0.3
+2019-10-18 16:28:24,815 INFO (SiteAnalysisController.java:35)- org.springframework.web.multipart.support.StandardMultipartHttpServletRequest@249ca8ec
+2019-10-18 16:32:17,272 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 12700 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 16:32:17,300 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 16:32:18,720 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.789 seconds (JVM running for 2.35)
+2019-10-18 16:40:29,216 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 6260 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 16:40:29,249 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 16:40:30,624 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.735 seconds (JVM running for 2.269)
+2019-10-18 16:42:12,865 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 12580 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 16:42:12,868 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 16:42:14,277 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.74 seconds (JVM running for 2.268)
+2019-10-18 16:42:51,851 INFO (SiteAnalysisController.java:34)- scz2.fullsnp.results
+2019-10-18 16:42:51,851 INFO (SiteAnnotationServiceImpl.java:55)- into getSiteAnnotationFromFile value:{}
+2019-10-18 16:44:46,594 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 4332 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 16:44:46,597 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 16:44:48,030 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.751 seconds (JVM running for 2.276)
+2019-10-18 16:45:01,210 INFO (SiteAnalysisController.java:34)- scz2.fullsnp.results
+2019-10-18 16:45:01,211 INFO (SiteAnnotationServiceImpl.java:55)- into getSiteAnnotationFromFile value:{}
+2019-10-18 16:47:20,446 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11800 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 16:47:20,474 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 16:47:21,860 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.745 seconds (JVM running for 2.267)
+2019-10-18 16:47:38,576 INFO (SiteAnalysisController.java:34)- scz2.fullsnp.results
+2019-10-18 16:47:38,576 INFO (SiteAnnotationServiceImpl.java:56)- into getSiteAnnotationFromFile value:{}
+2019-10-18 18:06:09,712 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 9752 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 18:06:09,739 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 18:06:11,314 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 2.042 seconds (JVM running for 2.716)
+2019-10-18 19:16:38,205 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 11544 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 19:16:38,208 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 19:16:39,767 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.969 seconds (JVM running for 2.55)
+2019-10-18 19:17:55,110 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 3292 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 19:17:55,142 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 19:17:56,515 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.762 seconds (JVM running for 2.284)
+2019-10-18 19:18:43,792 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 636 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 19:18:43,795 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 19:18:45,207 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.758 seconds (JVM running for 2.278)
+2019-10-18 19:19:12,330 INFO (SiteAnalysisController.java:34)- scz2.fullsnp.results
+2019-10-18 19:19:12,330 INFO (SiteAnnotationServiceImpl.java:58)- into getSiteAnnotationFromFile value:{}
+2019-10-18 19:19:12,331 ERROR (SiteAnnotationServiceImpl.java:124)- fail to read file
+2019-10-18 19:19:54,339 INFO (StartupInfoLogger.java:55)- Starting GeneApplication on DESKTOP-MHHTG86 with PID 2136 (D:\zp\workspace\gene\gene\target\classes started by aaa in D:\zp\workspace\gene\gene)
+2019-10-18 19:19:54,373 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-10-18 19:19:55,726 INFO (StartupInfoLogger.java:61)- Started GeneApplication in 1.735 seconds (JVM running for 2.276)
+2019-10-18 19:20:06,406 INFO (SiteAnalysisController.java:34)- scz2.fullsnp.results
+2019-10-18 19:20:06,406 INFO (SiteAnnotationServiceImpl.java:58)- into getSiteAnnotationFromFile value:{}
+2019-10-18 19:20:32,093 ERROR (SiteAnnotationServiceImpl.java:121)- 
+2019-10-18 19:26:16,758 INFO (SiteAnalysisController.java:34)- scz2.fullsnp.results
+2019-10-18 19:26:16,759 INFO (SiteAnnotationServiceImpl.java:58)- into getSiteAnnotationFromFile value:{}
+2019-10-18 19:26:38,106 ERROR (SiteAnnotationServiceImpl.java:121)- 
